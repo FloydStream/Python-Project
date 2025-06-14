@@ -1,0 +1,146 @@
+{
+    "donk": {
+        "link": "https://www.hltv.org/player/21167/donk",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": 2007,
+        "role": "Rifler",
+        "majapp": 2
+    },
+    "ZywOo": {
+        "link": "https://www.hltv.org/player/11893/zywoo",
+        "country": "France",
+        "team": "Vitality",
+        "birth_year": 2001,
+        "role": "Awper",
+        "majapp": 8
+    },
+    "m0NESY": {
+        "link": "https://www.hltv.org/player/19230/m0nesy",
+        "country": "Russia",
+        "team": "G2",
+        "birth_year": 2006,
+        "role": "AWPer",
+        "majapp": 4
+    },
+        "s1mple": {
+        "link": "https://www.hltv.org/player/7998/s1mple",
+        "country": "Ukraine",
+        "team": "Natus Vincere (benched)",
+        "birth_year": 1998,
+        "role": "AWPer",
+        "majapp": 13
+        },
+        "device": {
+        "link": "https://www.hltv.org/player/7592/device",
+        "country": "Denmark",
+        "team": "Astralis",
+        "birth_year": 1996,
+        "role": "AWPer",
+        "majapp": 16
+    },   
+    "w0nderful": {
+        "link": "https://www.hltv.org/player/20127/w0nderful",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 2005,
+        "role": "AWPer",
+        "majapp": 3
+    },
+        "ropz": {
+        "link": "https://www.hltv.org/player/11816/ropz",
+        "country": "Estonia",
+        "team": "Vitality",
+        "birth_year": 2000,
+        "role": "Rifler",
+        "majapp": 10
+    },
+        "broky": {
+        "link": "https://www.hltv.org/player/18053/broky",
+        "country": "Latvia",
+        "team": "FaZe",
+        "birth_year": 2001,
+        "role": "AWPer",
+        "majapp": 6
+    },
+        "Twistzz": {
+        "link": "https://www.hltv.org/player/10394/twistzz",
+        "country": "Canada",
+        "team": "Liquid",
+        "birth_year": 2000,
+        "role": "Rifler",
+        "majapp": 9
+    },
+        "b1t": {
+        "link": "https://www.hltv.org/player/18987/b1t",
+        "country": "Ukraine",
+        "team": "Natus Vincere",
+        "birth_year": 2003,
+        "role": "Rifler",
+        "majapp": 6
+    },
+    "Aleksib": {
+        "link": "https://www.hltv.org/player/9816/aleksib",
+        "country": "Finland",
+        "team": "Natus Vincere",
+        "birth_year": 1998,
+        "role": "Rifler",
+        "majapp": 7
+    },
+    "advent": {
+        "link": "https://www.hltv.org/player/8600/advent",
+        "country": "China",
+        "team": "retired",
+        "birth_year": 1993,
+        "role": "Rifler",
+        "majapp": 1
+    },
+        "DANK1NG": {
+        "link": "https://www.hltv.org/player/16207/dank1ng",
+        "country": "China",
+        "team": "TYLOO (benched)",
+        "birth_year": 2000,
+        "role": "AWPer",
+        "majapp": 1
+    },
+        "friberg": {
+        "link": "https://www.hltv.org/player/7148/friberg",
+        "country": "Sweden",
+        "team": "No team",
+        "birth_year": 1992,
+        "role": "Rifler",
+        "majapp": 9
+    },
+        "NiKo": {
+        "link": "https://www.hltv.org/player/3741/niko",
+        "country": "Bosnia_and_Herzegovina",
+        "team": "Falcons",
+        "birth_year": 1997,
+        "role": "Rifler",
+        "majapp": 14
+    },
+        "apEX": {
+        "link": "https://www.hltv.org/player/7322/apex",
+        "country": "France",
+        "team": "Vitality",
+        "birth_year": 1993,
+        "role": "Rifler",
+        "majapp": 19
+    },
+        "karrigan": {
+        "link": "https://www.hltv.org/player/429/karrigan",
+        "country": "Denmark",
+        "team": "FaZe",
+        "birth_year": 1991,
+        "role": "Rifler",
+        "majapp": 19
+    },
+        "sh1ro": {
+        "link": "https://www.hltv.org/player/16920/sh1ro",
+        "country": "Russia",
+        "team": "Spirit",
+        "birth_year": 2002,
+        "role": "AWPer",
+        "majapp": 5
+    }
+}
